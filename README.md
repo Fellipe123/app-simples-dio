@@ -9,7 +9,7 @@ O app está totalmente traduzido para:
 
 - 🇧🇷 **Português (pt-BR)**
 - 🇺🇸 **Inglês (en-US)**
-- 🇪🇸 **Espanhol (es)**
+- 🇪🇸 **Espanhol (ES-AR)**
 
 A mensagem exibida na tela muda automaticamente de acordo com o idioma configurado no dispositivo.
 
