@@ -17,15 +17,20 @@ A mensagem exibida na tela muda automaticamente de acordo com o idioma configura
 
 ## 📸 Capturas de Tela
 
-### 🇧🇷 Português
+### 🇧🇷 Português  
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/dcd61657-a0f1-40a2-82c0-e26d5ad45cbc" width="250"/>
+</p>
 
-![Tela em Português](https://github.com/user-attachments/assets/dcd61657-a0f1-40a2-82c0-e26d5ad45cbc)
+### 🇺🇸 English  
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/2392c49d-2418-4b3d-8f9d-8117a443cf61" width="250"/>
+</p>
 
-### 🇺🇸 English
-![Screen in English](https://github.com/user-attachments/assets/2392c49d-2418-4b3d-8f9d-8117a443cf61)
-
-### 🇪🇸 Español
-![Pantalla en Español](https://github.com/user-attachments/assets/d56e07ea-fbb0-48a7-8ef5-6ab776be5446)
+### 🇪🇸 Español  
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/d56e07ea-fbb0-48a7-8ef5-6ab776be5446" width="250"/>
+</p>
 
 ---
 
