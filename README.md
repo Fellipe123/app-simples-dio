@@ -18,13 +18,14 @@ A mensagem exibida na tela muda automaticamente de acordo com o idioma configura
 ## 📸 Capturas de Tela
 
 ### 🇧🇷 Português
-![Tela em Português](LINK_DA_IMAGEM_PORTUGUES)
+
+![Tela em Português](https://github.com/user-attachments/assets/dcd61657-a0f1-40a2-82c0-e26d5ad45cbc)
 
 ### 🇺🇸 English
-![Screen in English](LINK_DA_IMAGEM_INGLES)
+![Screen in English](https://github.com/user-attachments/assets/2392c49d-2418-4b3d-8f9d-8117a443cf61)
 
 ### 🇪🇸 Español
-![Pantalla en Español](LINK_DA_IMAGEM_ESPANHOL)
+![Pantalla en Español](https://github.com/user-attachments/assets/d56e07ea-fbb0-48a7-8ef5-6ab776be5446)
 
 ---
 
